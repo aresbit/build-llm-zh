@@ -1,0 +1,8 @@
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
+
+title: "从零开始构建大语言模型 (Build a Large Language Model From Scratch) · 中译版"
+description: "Sebastian Raschka 著，Manning Publications 2024 — 中文译本，含详细数学推导扩写"
+theme: jekyll-theme-cayman
